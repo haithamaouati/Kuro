@@ -1,6 +1,15 @@
 # Kuro
 Fetch GitHub User Info by username
 
+```
+  _  __                       
+ | |/ /  _   _   _ __    ___  
+ | ' /  | | | | | '__|  / _ \ 
+ | . \  | |_| | | |    | (_) |
+ |_|\_\  \__,_| |_|     \___/ 
+
+```
+
 ## Install
 
 To use the Kuro script, follow these steps:
