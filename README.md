@@ -65,4 +65,4 @@ Made with :coffee: by **Haitham Aouati**
 
 ## License
 
-Kuro is licensed under [Unlicense license](LICENSE)
+Kuro is licensed under [WTFPL license](LICENSE)
